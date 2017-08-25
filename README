@@ -1,0 +1,10 @@
+About the code:
+Login.js is not yet responsive, its database is supposed to be connected at endpoint.php
+There is no sign up yet, to add user the data must be manually entered in the backend database and table user.
+The Todo app can only add and delete.
+
+Members: Festin, Shann Angeli
+         Mama-o, Princess Steevelyn
+         Nunez, Chelsea
+         Son, Narcie
+         Tagala, Yumi
